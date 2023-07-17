@@ -1,0 +1,25 @@
+<big>....</big>   ykbar lklma
+<small>.....</small>     ysagar lklma
+<u>...</u> ydir 5at ta7t lklma
+<b>....</b> y5achen lklma
+<s>....<s> ydir 5at fi nos lklma
+<sup>....</sup> ytal3 lklma chi w lfog
+<sub>......</sub> yhabt lklma chwi t7t
+<mark>.....</mark> ymarki lklma bcolore
+<hr> ydir 5ate fi site
+<header>...</header> traf lfogani ta site yji fih li link ttna9l mn lpaga lpaga ....
+<main>
+<section>...</section> ya9smlk lmain lgdah tarf
+
+</main> uji fih wach ta7tage fi site ta3k
+<footer>.....</footer> tarf ta7tani ta site win yji fih navigatore bar
+<a href="....." target="_blank"></a> ta7lak site fi paga wa7do5ra
+<label for="id">user name<label>trbatlak input ta3ak lazam ykon 3andak nafs l id
+<input type="text id=".......">
+atrribut [requerd] lazam ta3amr lelement 9abl ma dazo
+atrribut [autocomplete="off"] may5arjlkch wach tkml
+<select name=="" id="">ta5ajlk list wnta 5ayer 
+<option value="ar">....</option>
+<option>....</option>
+<option>....</option>
+</select>

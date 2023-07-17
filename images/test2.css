@@ -1,0 +1,21 @@
+*{
+    background-color: red;
+}
+a{
+    text-decoration: none;
+    background-color: deepskyblue;
+    font-weight: 600;
+    display: inline-block;
+    padding: 3px 3px;
+    letter-spacing: 1px;
+    border-radius: 1px;
+    border-radius: 15px;
+    margin-bottom: 100px;
+    font-size: 1.6em;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.7s;
+    
+}
+a:hover{
+    transform: scale(1.1);
+}
